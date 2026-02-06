@@ -44,7 +44,7 @@ h1 {
     width: 100%;
     padding: 16px;
     text-align: center;
-    opacity: 0.7;
+    opacity: 0.8;
     background-color: var(--secondary-color);
     color: #fff;
 }
@@ -63,4 +63,8 @@ article {
 }
 footer img {
     width: 40px;
+}
+nav ul{
+    list-style-type: none;
+    
 }
